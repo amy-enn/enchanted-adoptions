@@ -1,0 +1,192 @@
+[
+    {
+        "id": "moth",
+        "name": "Moth",
+        "species": "Hearth dragon",
+        "animalType": "dragon",
+        "ageYears": 2,
+        "ageCategory": "young",
+        "status": "available",
+        "size": "small",
+        "temperament": [
+            "affectionate",
+            "curious",
+            "mischievous"
+        ],
+        "description": "A pocket-sized dragon who sleeps in warm laundry and greets visitors with a curl of cinnamon-scented smoke.",
+        "magic": "Keeps a room pleasantly warm; occasionally toasts unattended paperwork.",
+        "careNotes": "Needs a heat-safe sleeping nook and supervised access to bookshelves.",
+        "imageUrl": null
+    },
+    {
+        "id": "bramble",
+        "name": "Bramble",
+        "species": "Moonwhisker cat",
+        "animalType": "cat",
+        "ageYears": 6,
+        "ageCategory": "adult",
+        "status": "available",
+        "size": "small",
+        "temperament": [
+            "independent",
+            "gentle",
+            "observant"
+        ],
+        "description": "A silver-tabby familiar with enormous ears and a preference for people who read aloud.",
+        "magic": "Finds lost objects by sleeping directly on top of them.",
+        "careNotes": "Indoor home preferred. Requires a quiet windowsill and patient introductions to other cats.",
+        "imageUrl": null
+    },
+    {
+        "id": "puddlewick",
+        "name": "Puddlewick",
+        "species": "Raincaller toad",
+        "animalType": "toad",
+        "ageYears": 4,
+        "ageCategory": "adult",
+        "status": "available",
+        "size": "tiny",
+        "temperament": [
+            "calm",
+            "sociable",
+            "stubborn"
+        ],
+        "description": "A moss-green toad who likes soft music, terracotta pots, and being addressed formally.",
+        "magic": "Summons a brief indoor drizzle when deeply offended.",
+        "careNotes": "Needs a humid habitat, fresh water, and a lid that closes securely.",
+        "imageUrl": null
+    },
+    {
+        "id": "thistle",
+        "name": "Thistle",
+        "species": "Garden unicorn",
+        "animalType": "unicorn",
+        "ageYears": 9,
+        "ageCategory": "adult",
+        "status": "application_pending",
+        "size": "large",
+        "temperament": [
+            "gentle",
+            "shy",
+            "loyal"
+        ],
+        "description": "A dappled pony-sized unicorn who bonds slowly and then follows her person everywhere.",
+        "magic": "Coaxes seedlings to sprout overnight when she is happy.",
+        "careNotes": "Requires a fenced outdoor space, daily grooming, and companions who respect her boundaries.",
+        "imageUrl": null
+    },
+    {
+        "id": "knuckle",
+        "name": "Knuckle",
+        "species": "Cobblestone gargoyle",
+        "animalType": "gargoyle",
+        "ageYears": 34,
+        "ageCategory": "senior",
+        "status": "available",
+        "size": "medium",
+        "temperament": [
+            "watchful",
+            "patient",
+            "devoted"
+        ],
+        "description": "A stout, stone-skinned companion who sits on the porch by day and patrols the garden by night.",
+        "magic": "Detects approaching storms and hums softly before the first thunderclap.",
+        "careNotes": "Needs a sturdy perch and regular mineral baths. Cannot live in an upstairs apartment.",
+        "imageUrl": null
+    },
+    {
+        "id": "fennel",
+        "name": "Fennel",
+        "species": "Lantern fox",
+        "animalType": "fox",
+        "ageYears": 1,
+        "ageCategory": "young",
+        "status": "available",
+        "size": "small",
+        "temperament": [
+            "energetic",
+            "clever",
+            "playful"
+        ],
+        "description": "A russet fox kit whose tail glows like a candle whenever she discovers a new hiding place.",
+        "magic": "Illuminates dark paths, though she sometimes turns the light off to start a game.",
+        "careNotes": "Needs daily enrichment, secure fencing, and someone willing to retrieve stolen socks.",
+        "imageUrl": null
+    },
+    {
+        "id": "vellum",
+        "name": "Vellum",
+        "species": "Inkwing raven",
+        "animalType": "bird",
+        "ageYears": 12,
+        "ageCategory": "adult",
+        "status": "adopted",
+        "size": "medium",
+        "temperament": [
+            "talkative",
+            "intelligent",
+            "particular"
+        ],
+        "description": "A glossy raven who collects interesting words and insists on hearing how your day went.",
+        "magic": "Can repeat a sentence in the voice of the person who first spoke it.",
+        "careNotes": "Requires social time, puzzle feeders, and a home comfortable with unsolicited commentary.",
+        "imageUrl": null
+    },
+    {
+        "id": "biscuit",
+        "name": "Biscuit",
+        "species": "Cloud sheep",
+        "animalType": "sheep",
+        "ageYears": 3,
+        "ageCategory": "adult",
+        "status": "available",
+        "size": "medium",
+        "temperament": [
+            "easygoing",
+            "affectionate",
+            "sleepy"
+        ],
+        "description": "A woolly little sheep who floats six inches above the floor and follows the smell of fresh bread.",
+        "magic": "Her wool produces tiny harmless snowflakes when she dreams.",
+        "careNotes": "Needs companionship, regular wool care, and ceiling fans kept off during naps.",
+        "imageUrl": null
+    },
+    {
+        "id": "cinder",
+        "name": "Cinder",
+        "species": "Ash salamander",
+        "animalType": "salamander",
+        "ageYears": 7,
+        "ageCategory": "adult",
+        "status": "on_hold",
+        "size": "tiny",
+        "temperament": [
+            "quiet",
+            "bold",
+            "food-motivated"
+        ],
+        "description": "A charcoal-black salamander with ember-bright spots and a remarkable fondness for soup kitchens.",
+        "magic": "Rekindles cold cooking fires with a sneeze.",
+        "careNotes": "Needs a heat-safe enclosure. Currently on hold while recovering from a minor tail injury.",
+        "imageUrl": null
+    },
+    {
+        "id": "marigold",
+        "name": "Marigold",
+        "species": "Wishing hare",
+        "animalType": "hare",
+        "ageYears": 11,
+        "ageCategory": "senior",
+        "status": "available",
+        "size": "small",
+        "temperament": [
+            "gentle",
+            "reserved",
+            "steady"
+        ],
+        "description": "A golden-eared hare who prefers a peaceful lap and the company of houseplants.",
+        "magic": "Small acts of kindness near her sometimes come back as improbable good luck.",
+        "careNotes": "Needs a calm home, soft bedding, and regular senior wellness checks.",
+        "imageUrl": null
+    }
+]
